@@ -1,14 +1,27 @@
-# BlackRoad / Interactive
+# BlackRoad-OS-Interactive
 
-> **Remember the Road. Pave Tomorrow.**
+BlackRoad OS organization workbench.
 
-Worlds, social, sport, and shared spaces — where people and agents actually meet.
+This org is part of the BlackRoad OS canon structure:
 
-**This org owns**
-- RoadWorld (walkable pixel rooms)
-- OfficeRoad (spatial workplace)
-- RoadSport (constrained choreography, dotbooks)
-- BackRoad (creator-first social feed)
-- CarPool (multi-human + multi-agent projects)
+- 1 operator
+- 27 agents
+- 27 products
+- 20 root domains
+- 20 active GitHub orgs
 
-[blackroad.io](https://blackroad.io) · [roadworld.blackroad.io](https://roadworld.blackroad.io)
+Status:
+Initialized organization profile and default community files.
+
+Honesty note:
+Repos in this org may be initialized shells. Do not treat them as implemented products unless their README, tests, deployment notes, and receipts prove it.
+
+Rules:
+- Do not commit secrets.
+- Keep main clean.
+- Use blackroad-lab for experiments.
+- Write receipts for meaningful changes.
+- Mark unfinished work honestly: MOCK, PARTIAL, UNKNOWN, or REAL.
+
+Tagline:
+Remember the Road. Pave Tomorrow.
